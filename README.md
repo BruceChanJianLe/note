@@ -6,7 +6,7 @@ Deep Reinforcement Learning Nanodegree | Docker-ROS gui | Flying Car and Autonom
 Gmapping Code | Sensor Fusion Engineer Nanodegree | Self-driving Car Engineer Nanodegree
 Traversability Analysis | Catch2 | STM32-FREERTOS
 Dynamic Goal | - | STM32-ROS
-\- | - | Unit Testing Pyhton (ROS)
+Search Algorithm based on image | - | Unit Testing Pyhton (ROS)
 
 ```bash
 Unit Testing C++ (ROS)
