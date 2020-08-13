@@ -7,6 +7,8 @@ Gmapping Code | Sensor Fusion Engineer Nanodegree | Self-driving Car Engineer Na
 Traversability Analysis | [Catch2](https://www.youtube.com/watch?v=3tIE6X5FjDE) | STM32-FREERTOS
 Dynamic Goal | - | STM32-ROS
 Search Algorithm based on image | - | Unit Testing Pyhton (ROS)
+Tmux relative numbers | - | -
+ROS msg vector of vector | - | -
 
 ```bash
 Unit Testing C++ (ROS)
