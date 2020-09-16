@@ -9,7 +9,7 @@ Dynamic Goal | - | STM32-ROS
 Search Algorithm based on image (in progress) | - | Unit Testing Pyhton (ROS)
 ROS msg vector of vector (nstd_msgs) | Tmux relative numbers | -
 Correct way to use ROSDEP | - | -
-ROS navigation stack | ROS 2 navigation stack | -
+ROS navigation stack | ROS 2 navigation stack | git submodule update example
 
 
 ```bash
