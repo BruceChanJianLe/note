@@ -8,12 +8,13 @@ Traversability Analysis | [Catch2](https://www.youtube.com/watch?v=3tIE6X5FjDE) 
 Dynamic Goal | - | STM32-ROS
 Search Algorithm based on image (in progress) | - | Unit Testing Pyhton (ROS)
 ROS msg vector of vector (nstd_msgs) | Tmux relative numbers | -
-RViz New Dockable Panel | - | -
+RViz New Dockable Panel | ROS Nodelet | -
 ROS navigation stack | ROS 2 navigation stack | git submodule update example
 
 
 ```bash
 Unit Testing C++ (ROS)
+ROS rqt plugin cpp and python
 ```
 
 ## Others
