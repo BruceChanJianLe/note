@@ -27,6 +27,10 @@ ROS rqt plugin cpp and python
 ## Git Submodules
 
 - https://www.youtube.com/watch?v=32bEgCzapDc
+
+## Deep Blue Learning Notes from Others
+
+- www.cxyzd.com
   
 ## ROS 2 Navigation Stack
 
