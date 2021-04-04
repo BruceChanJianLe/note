@@ -30,7 +30,7 @@ ROS rqt plugin cpp and python
 
 ## Deep Blue Learning Notes from Others
 
-- www.cxyzd.com
+- www.cxyzjd.com
   
 ## ROS 2 Navigation Stack
 
