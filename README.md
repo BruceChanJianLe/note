@@ -24,6 +24,8 @@ ROS rqt plugin cpp and python
     - Method 2: Using launch file <env> tag https://answers.ros.org/question/261068/roslaunch-xml-env-tag/ and https://answers.ros.org/question/251862/what-does-the-export-tag-mean/ Do not that ${prefix} is always the package file path
     - Method 3: Using env-hook https://answers.ros.org/question/253790/what-are-environment-hooks-in-catkin/ and https://github.com/ros/ros/blob/bf3e45955e5c8aac2ab276d6b956b21bc13ddccc/core/roslib/env-hooks/10.ros.sh.em and http://www.alcyone.com/pyos/empy/ and https://answers.ros.org/question/312942/catkin-empy-variables/ and https://github.com/ros/ros_environment/tree/noetic/env-hooks
   
+- Point in polygon [link](https://technotip.com/8007/c-program-to-find-if-a-point-lies-inside-triangle-or-not/) [youtube_video](https://www.youtube.com/watch?v=Nrf6yLuBSTI) [note](http://erich.realtimerendering.com/ptinpoly/)
+  
 ## Git Submodules
 
 - https://www.youtube.com/watch?v=32bEgCzapDc
